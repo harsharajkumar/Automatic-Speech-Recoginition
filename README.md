@@ -1,4 +1,4 @@
-#DeepSpeech 2-Inspired Automatic Speech Recognition with TensorFlow
+# DeepSpeech 2-Inspired Automatic Speech Recognition with TensorFlow
 
 This repository provides a TensorFlow implementation for building a DeepSpeech 2-inspired model for Automatic Speech Recognition (ASR). The model converts audio recordings into text transcripts.
 
